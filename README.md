@@ -9,7 +9,7 @@ Welcome to The Hidden Wiki repository! This guide will provide you with the nece
 3. Once the download is complete, locate the installation file and run it.
 4. Follow the on-screen instructions to install Tor Browser on your computer.
 5. After installation, launch Tor Browser.
-
+Remember to respect the laws of your jurisdiction
 ## Accessing thehiddenwiki2024.com
 
 1. Launch Tor Browser, and it will automatically connect to the Tor network.
